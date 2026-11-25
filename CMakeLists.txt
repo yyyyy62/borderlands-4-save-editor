@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(borderlands_4_save_editor LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+include_directories(include)
+add_executable(borderlands_4_save_editor src/borderlands_4_save_editor_core.cpp)

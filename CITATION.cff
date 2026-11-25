@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "Borderlands 4 Save Editor, Profile Decryptor & Golden Key Manager"
+abstract: "Borderlands 4 Save Editor, Profile Decryptor & Golden Key Manager v3.5.7: Low-overhead desktop duplication HUD, dynamic signature scanner."
+authors:
+  - alias: "richardmo-lab301"
+    name: "richardmo-lab301"
+version: "3.5.7"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/richardmo-lab301/borderlands-4-save-editor"
+url: "https://richardmo-lab301.github.io/borderlands-4-save-editor/"

